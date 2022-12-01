@@ -1,0 +1,3 @@
+# Project exclude paths
+/RiskMarket-master/complex_selenide_cucumber/target/
+/RiskMarket-master/simple_selenide_cucumber/target/
